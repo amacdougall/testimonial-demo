@@ -1,0 +1,18 @@
+body {
+  font-family: Helvetica;
+  background-color: #333;
+  color: #eee;
+}
+
+h1 {
+  size: 16px;
+}
+
+.testimonials {
+  border: thin navy solid;
+  background-color: silver;
+  margin: 1em;
+  padding: 0 1em;
+  color: #333;
+  size: 12px;
+}
